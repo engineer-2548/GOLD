@@ -1,1 +1,2 @@
-# GOLD
+# miniapp
+miniapp
